@@ -1,16 +1,13 @@
-### Hi there 👋
+Olá, eu sou a **Mayara (ou Maya, ou May)** :blush:
 
-<!--
-**ihappygirl/ihappygirl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 😄 Pronomes: Ela/Ella/She.
+- :briefcase: Desenvolvedora Front-End (há 3 anos).
+- :iphone: Atualmente migrando para o Desenvolvimento Mobile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+
+
