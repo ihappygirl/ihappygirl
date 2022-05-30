@@ -4,6 +4,12 @@ Oii, eu sou a **Mayara (ou Maya, ou May)** :blush:
 - :briefcase: Desenvolvedora Front-End (há 3 anos).
 - :iphone: Atualmente migrando para o Desenvolvimento Mobile.
 
+## Interesses
+- React Native
+- Kotlin
+- Android
+- UX/UI
+
 
 
 
