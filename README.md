@@ -11,9 +11,6 @@ Oii, eu sou a **Mayara (ou Maya, ou May)** :blush:
   <a href="mailto:mayarareginabisp@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=linkedin&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://www.facebook.com/Mayara.Regina.Bispo">
-    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Facebook"/>
-  </a>
 </div>
 
 ## Linguagens e Ferramentas
