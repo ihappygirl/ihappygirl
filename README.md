@@ -1,8 +1,7 @@
 Oii, eu sou a **Mayara (ou Maya, ou May)** :blush:
 
 - 😄 Pronomes: Ela/Ella/She.  
-- :briefcase: Desenvolvedora Front-End (há 3 anos).  
-- :iphone: Atualmente migrando para o Desenvolvimento Mobile.  
+- :briefcase: Desenvolvedora Front-End, atualmente migrando para o Desenvolvimento Mobile.  
 - <div id="badges">
   Me ache no:
   <a href="https://www.linkedin.com/in/mayara-regina-bispo/">
@@ -27,8 +26,6 @@ Oii, eu sou a **Mayara (ou Maya, ou May)** :blush:
       <img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-line.svg" title="Illustrator" alt="Illustrator" width="40" height="40"/>&nbsp;
       <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg" title="Photoshop" alt="Photoshop" width="40" height="40"/>&nbsp;
 </div>
-
-
 
 ## Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ihappygirl&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
