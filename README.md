@@ -1,7 +1,7 @@
 Oii, eu sou a **Mayara (ou Maya, ou May)** :blush:
 
 - 😄 Pronomes: Ela/Ella/She.  
-- :briefcase: Desenvolvedora Front-End, atualmente migrando para o Desenvolvimento Mobile.  
+- :briefcase: Desenvolvedora Front-end e Mobile.  
 - <div id="badges">
   Me ache no:
   <a href="https://www.linkedin.com/in/mayara-regina-bispo/">
